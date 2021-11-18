@@ -1,0 +1,239 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo {
+    width: 370px;
+}
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.contacts-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px; 
+}
+.contact-link {
+    color: #787e88;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.tech-skills-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px; 
+    margin-bottom: 20px; 
+    color: #ffffff;
+}
+
+.tech-skill-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.tech-skill-item {
+    color: #ff6b08; 
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.tech-skill-text {
+    color: #ffffff;
+}
+
+.soft-skill-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+
+}
+
+.soft-skills-container {
+    margin-top: 55px;
+    margin-left: 40px;
+
+}
+.soft-skill-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+.soft-skill-text {
+    color: #ffffff;
+}
+
+.language-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.language-container {
+    margin-top: 55px;
+
+}
+
+.language-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.language-text {
+    color: #ffffff;
+}
+.profession {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 24px;
+    width: 415px;
+}
+.info-container {
+    margin-bottom: 65px;
+}
+.about-me-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.projects-link {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.tech-name {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.dots {
+    color: #e9e9e9;
+}
+.project-item {
+    font-weight: 700;
+    margin-left: 17px;
+}
+.projects-container {
+    margin-bottom: 55px;
+}
+.exp-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+.study-type {
+    color: #ff6b08;
+    margin-left: 5px;
+}
+.study-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.study-divider {
+    color: black;
+}
+.prof-duties {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    width: 535px;
+}
+.prof-duties-item {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.education-container {
+    margin-top: 55px
+}
+.university {
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;  
+    margin-bottom: 15px;
+}
+.faculty {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+#chanhe-color-btn {
+    border: #1e2939;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 40px;
+    font-weight: 700;
+}
